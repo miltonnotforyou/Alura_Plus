@@ -1,5 +1,6 @@
-# Alura_Plus
-## Repositório para guardar os arquivos do curso HTML e CSS: praticando HTML/CSS da Alura
+# Alura Plus <img align="center" alt="Ubiratan-Jv" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img align="center" alt="Ubiratan-Jv" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+
+### Repositório para guardar os arquivos do curso HTML e CSS: praticando HTML/CSS da Alura
 
 >Nesse curso eu vi:
 
